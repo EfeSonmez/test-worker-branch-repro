@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "test-worker-branch",
+	"name": "test-worker-branch-repro",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-08-12",
 	"observability": {
